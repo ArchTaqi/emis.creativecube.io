@@ -1,0 +1,109 @@
+
+
+<?php //INSERT INTO `tbl_users`(`user_id`, `username`, `password`, `email`, `role_id`, `activated`, `banned`, `ban_reason`, `new_password_key`, `new_password_requested`, `new_email`, `new_email_key`, `last_ip`, `last_login`, `created`, `modified`, `online_time`, `permission`, `active_email`, `smtp_email_type`, `smtp_encription`, `smtp_action`, `smtp_host_name`, `smtp_username`, `smtp_password`, `smtp_port`, `smtp_additional_flag`, `last_postmaster_run`, `media_path_slug`) VALUES (10,'check','e64cf4e375f03261f4f6651545f17b777b1741e04e3f69e2def7691d2c76d9f9379985cfb95f2614c37761871abd9ddcbbb875d4688ca85bbf3d545dc1b70adc','c@c.com',3,1,0,'','2-2-2018','2018-2-2','','','','2018-2-2','2018-2-2','2018-2-2',12343445,'','','','','','','','','','','','')?>
+
+
+<?php echo message_box('success'); ?>
+<?php echo message_box('error');
+$created = can_action('101', 'created');
+$edited = can_action('101', 'edited');
+$deleted = can_action('101', 'deleted');
+?>
+<?php 
+	
+	//echo hash('sha512', "12345" . config_item('encryption_key'));
+	
+	//$user_info = $this->db->where('username','amir6693')->get('tbl_users')->row();
+	
+	/*
+	//echo sizeof($user_info);
+	if(sizeof($user_info)==0)
+	{
+		$this->db->trans_start();
+	
+		$this->db->start_cache();
+		
+		$this->db->set('username','amir6693');
+		$this->db->set('password`',hash('sha512', "12345" . config_item('encryption_key')));
+		$this->db->set('email','check@check.com');
+		$this->db->set('role_id','3');
+		$this->db->set('activated','1');
+		$this->db->set('last_ip','::1');
+		$this->db->set('modified',date("Y-m-d"));
+		$this->db->set('permission', 'all');
+		
+		$this->db->insert('tbl_users');
+		
+		$insert_id = $this->db->insert_id();
+		
+		$this->db->stop_cache();
+		$this->db->flush_cache();
+
+		
+		$this->db->start_cache();
+		
+		$this->db->set('user_id',$insert_id);
+		$this->db->set('fullname','Muhammad Amir');
+		$this->db->set('city','Bwp, Punjab');
+		$this->db->set('locale','ur_PK');
+		$this->db->set('language','english');
+		$this->db->set('designations_id','2');
+		$this->db->set('avatar','uploads/add.png');
+		$this->db->set('direction','ltr');
+		
+		$this->db->insert('tbl_account_details');
+		
+		$this->db->stop_cache();
+		$this->db->flush_cache();
+		
+		$this->db->trans_complete();
+		
+		
+		echo "Data Inserted Successfully";
+	}
+	else
+	{
+		echo "Data Already Exists";
+	}
+	
+	/*
+	$this->db->trans_start();
+	
+	$this->db->start_cache();
+	
+	$this->db->set('account_name','My Account');
+	$this->db->set('description','My');
+	$this->db->set('balance','12345');
+	
+	$this->db->insert('tbl_accounts');
+	
+	$insert_id = $this->db->insert_id();
+	
+	$this->db->stop_cache();
+	$this->db->flush_cache();
+
+	
+	$this->db->start_cache();
+	
+	$this->db->set('account_name',$insert_id);
+	$this->db->set('description','My Second');
+	$this->db->set('balance','111222345');
+	
+	$this->db->insert('tbl_accounts');
+	
+	$insert_id = $this->db->insert_id();
+	
+	$this->db->stop_cache();
+	$this->db->flush_cache();
+	
+	$this->db->trans_complete();
+	
+	echo $insert_id;
+	
+	*/
+	/*
+	$query="111-111-11,T12345|22-22-22-22,Test12345|333-333-333,Haier|";
+	$query_r=explode('|',$query);
+	print_r ($query_r[0]);
+	*/
+?>

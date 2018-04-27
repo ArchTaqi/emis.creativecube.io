@@ -1,0 +1,350 @@
+[09-Apr-2018 07:01:44 America/New_York] PHP Notice:  Undefined index: username in /home/roarepfq/emis.creativecube.io/Servey-PHP/checkuser.php on line 16
+[09-Apr-2018 07:01:44 America/New_York] PHP Notice:  Undefined index: password in /home/roarepfq/emis.creativecube.io/Servey-PHP/checkuser.php on line 17
+[09-Apr-2018 07:02:43 America/New_York] PHP Notice:  Undefined index: id in /home/roarepfq/emis.creativecube.io/Servey-PHP/checkuser.php on line 32
+[09-Apr-2018 08:38:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.169.82.14' (111 &quot;Connection refused&quot;) in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 2
+[09-Apr-2018 08:38:31 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[09-Apr-2018 08:38:31 America/New_York] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 76
+[09-Apr-2018 08:38:31 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 82
+[09-Apr-2018 08:38:31 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 92
+[09-Apr-2018 08:39:52 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.169.82.14' (111 &quot;Connection refused&quot;) in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 2
+[09-Apr-2018 08:39:52 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[09-Apr-2018 08:39:52 America/New_York] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 76
+[09-Apr-2018 08:39:52 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 82
+[09-Apr-2018 08:39:52 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 92
+[09-Apr-2018 08:44:23 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.169.82.14' (111 &quot;Connection refused&quot;) in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 2
+[09-Apr-2018 08:44:23 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[09-Apr-2018 08:44:23 America/New_York] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 76
+[09-Apr-2018 08:44:23 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 82
+[09-Apr-2018 08:44:23 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 92
+[09-Apr-2018 08:57:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.169.82.14' (111 &quot;Connection refused&quot;) in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 2
+[09-Apr-2018 08:57:41 America/New_York] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 76
+[09-Apr-2018 08:57:41 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 82
+[09-Apr-2018 08:57:41 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 92
+[09-Apr-2018 09:06:04 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.169.82.14' (111 &quot;Connection refused&quot;) in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 2
+[09-Apr-2018 09:06:04 America/New_York] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 76
+[09-Apr-2018 09:06:04 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 82
+[09-Apr-2018 09:06:04 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 92
+[09-Apr-2018 09:35:39 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.169.82.14' (111 &quot;Connection refused&quot;) in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 2
+[09-Apr-2018 09:35:39 America/New_York] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 76
+[09-Apr-2018 09:35:39 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 82
+[09-Apr-2018 09:35:39 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 92
+[09-Apr-2018 09:41:01 America/New_York] PHP Parse error:  syntax error, unexpected '$QRY' (T_VARIABLE), expecting ',' or ';' in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 22
+[09-Apr-2018 09:42:09 America/New_York] PHP Parse error:  syntax error, unexpected '$QRY' (T_VARIABLE), expecting ',' or ';' in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 22
+[09-Apr-2018 09:43:33 America/New_York] PHP Parse error:  syntax error, unexpected '$QRY' (T_VARIABLE), expecting ',' or ';' in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 22
+[09-Apr-2018 09:49:22 America/New_York] PHP Parse error:  syntax error, unexpected '$QRY' (T_VARIABLE), expecting ',' or ';' in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 22
+[09-Apr-2018 09:49:55 America/New_York] PHP Parse error:  syntax error, unexpected '$QRY' (T_VARIABLE), expecting ',' or ';' in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 22
+[09-Apr-2018 09:51:23 America/New_York] PHP Parse error:  syntax error, unexpected '$QRY' (T_VARIABLE), expecting ',' or ';' in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 22
+[09-Apr-2018 09:52:17 America/New_York] PHP Parse error:  syntax error, unexpected '$QRY' (T_VARIABLE), expecting ',' or ';' in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 22
+[09-Apr-2018 09:53:02 America/New_York] PHP Parse error:  syntax error, unexpected '$QRY' (T_VARIABLE), expecting ',' or ';' in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 22
+[09-Apr-2018 09:55:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.169.82.14' (111 &quot;Connection refused&quot;) in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 2
+[09-Apr-2018 09:55:26 America/New_York] PHP Notice:  Undefined index: lati in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 19
+[09-Apr-2018 09:55:26 America/New_York] PHP Notice:  Undefined index: ans5 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 26
+[09-Apr-2018 09:55:26 America/New_York] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 77
+[09-Apr-2018 09:55:26 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 83
+[09-Apr-2018 09:55:26 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 93
+[09-Apr-2018 09:56:28 America/New_York] PHP Notice:  Undefined index: lati in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 19
+[09-Apr-2018 09:56:28 America/New_York] PHP Notice:  Undefined index: ans5 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 26
+[09-Apr-2018 15:11:14 America/New_York] PHP Parse error:  syntax error, unexpected '$sql_u' (T_VARIABLE) in /home/roarepfq/emis.creativecube.io/Servey-PHP/checkuser.php on line 22
+[09-Apr-2018 15:11:18 America/New_York] PHP Parse error:  syntax error, unexpected '$sql_u' (T_VARIABLE) in /home/roarepfq/emis.creativecube.io/Servey-PHP/checkuser.php on line 22
+[09-Apr-2018 15:11:43 America/New_York] PHP Parse error:  syntax error, unexpected '$sql_u' (T_VARIABLE) in /home/roarepfq/emis.creativecube.io/Servey-PHP/checkuser.php on line 22
+[09-Apr-2018 15:11:46 America/New_York] PHP Parse error:  syntax error, unexpected '$sql_u' (T_VARIABLE) in /home/roarepfq/emis.creativecube.io/Servey-PHP/checkuser.php on line 22
+[09-Apr-2018 15:11:51 America/New_York] PHP Parse error:  syntax error, unexpected '$sql_u' (T_VARIABLE) in /home/roarepfq/emis.creativecube.io/Servey-PHP/checkuser.php on line 22
+[09-Apr-2018 15:12:23 America/New_York] PHP Parse error:  syntax error, unexpected '$sql_u' (T_VARIABLE) in /home/roarepfq/emis.creativecube.io/Servey-PHP/checkuser.php on line 22
+[09-Apr-2018 15:12:30 America/New_York] PHP Parse error:  syntax error, unexpected '$sql_u' (T_VARIABLE) in /home/roarepfq/emis.creativecube.io/Servey-PHP/checkuser.php on line 22
+[09-Apr-2018 15:13:44 America/New_York] PHP Parse error:  syntax error, unexpected '$sql_u' (T_VARIABLE) in /home/roarepfq/emis.creativecube.io/Servey-PHP/checkuser.php on line 22
+[09-Apr-2018 16:45:08 America/New_York] PHP Notice:  Undefined index: lati in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 19
+[09-Apr-2018 16:45:08 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[09-Apr-2018 16:45:08 America/New_York] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 37
+[09-Apr-2018 16:45:08 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 40
+[09-Apr-2018 16:45:08 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 41
+[09-Apr-2018 16:53:10 America/New_York] PHP Notice:  Undefined index: lati in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 19
+[09-Apr-2018 16:53:10 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[09-Apr-2018 16:53:10 America/New_York] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 37
+[09-Apr-2018 16:53:10 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 40
+[09-Apr-2018 16:53:10 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 41
+[09-Apr-2018 16:59:14 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[09-Apr-2018 16:59:14 America/New_York] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 37
+[09-Apr-2018 17:09:34 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[09-Apr-2018 17:09:34 America/New_York] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 37
+[09-Apr-2018 17:15:02 America/New_York] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 37
+[09-Apr-2018 18:30:23 America/New_York] PHP Notice:  Undefined index: ans5 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 55
+[09-Apr-2018 18:32:58 America/New_York] PHP Notice:  Undefined index: ans5 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 55
+[10-Apr-2018 07:26:23 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[10-Apr-2018 09:08:01 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[10-Apr-2018 12:04:31 America/New_York] PHP Notice:  Undefined index: ans5 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 55
+[10-Apr-2018 19:36:30 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 50
+[10-Apr-2018 19:39:55 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 50
+[11-Apr-2018 07:09:59 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 07:13:38 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 07:14:24 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 07:19:35 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 07:19:58 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 07:20:31 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 08:04:44 America/New_York] PHP Notice:  Undefined index: ans5 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 55
+[11-Apr-2018 08:04:45 America/New_York] PHP Notice:  Undefined index: ans5 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 55
+[11-Apr-2018 08:06:39 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 08:09:33 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 08:19:44 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 08:24:32 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 08:25:37 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 08:26:01 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 08:28:07 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 08:30:34 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 08:36:10 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 08:38:39 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[11-Apr-2018 09:40:34 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[12-Apr-2018 10:54:49 America/New_York] PHP Warning:  mysqli_multi_query() expects parameter 2 to be string, array given in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 22
+[12-Apr-2018 10:54:52 America/New_York] PHP Warning:  mysqli_multi_query() expects parameter 2 to be string, array given in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 22
+[12-Apr-2018 10:55:17 America/New_York] PHP Warning:  mysqli_multi_query() expects parameter 2 to be string, array given in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 22
+[12-Apr-2018 10:55:19 America/New_York] PHP Warning:  mysqli_multi_query() expects parameter 2 to be string, array given in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 22
+[12-Apr-2018 10:57:20 America/New_York] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 19
+[12-Apr-2018 10:57:20 America/New_York] PHP Notice:  Array to string conversion in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 19
+[12-Apr-2018 10:59:15 America/New_York] PHP Notice:  Array to string conversion in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 19
+[12-Apr-2018 10:59:26 America/New_York] PHP Notice:  Array to string conversion in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 19
+[12-Apr-2018 11:00:18 America/New_York] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting variable (T_VARIABLE) or '$' in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 20
+[12-Apr-2018 11:00:24 America/New_York] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting variable (T_VARIABLE) or '$' in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 20
+[12-Apr-2018 11:00:36 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 21
+[12-Apr-2018 11:01:18 America/New_York] PHP Notice:  Array to string conversion in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 29
+[12-Apr-2018 11:03:45 America/New_York] PHP Notice:  Array to string conversion in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 29
+[12-Apr-2018 11:04:48 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 22
+[12-Apr-2018 11:13:22 America/New_York] PHP Notice:  Undefined variable: db in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 21
+[12-Apr-2018 11:13:22 America/New_York] PHP Fatal error:  Call to a member function beginTransaction() on null in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 21
+[12-Apr-2018 11:13:52 America/New_York] PHP Notice:  Undefined variable: db in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 21
+[12-Apr-2018 11:13:52 America/New_York] PHP Fatal error:  Call to a member function beginTransaction() on null in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 21
+[12-Apr-2018 11:14:14 America/New_York] PHP Notice:  Undefined variable: db in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 21
+[12-Apr-2018 11:14:14 America/New_York] PHP Fatal error:  Call to a member function beginTransaction() on null in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 21
+[12-Apr-2018 11:14:18 America/New_York] PHP Notice:  Undefined variable: db in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 21
+[12-Apr-2018 11:14:18 America/New_York] PHP Fatal error:  Call to a member function beginTransaction() on null in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 21
+[12-Apr-2018 11:14:32 America/New_York] PHP Notice:  Undefined variable: db in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 21
+[12-Apr-2018 11:14:32 America/New_York] PHP Fatal error:  Call to a member function beginTransaction() on null in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 21
+[12-Apr-2018 11:14:46 America/New_York] PHP Notice:  Undefined variable: db in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 20
+[12-Apr-2018 11:14:46 America/New_York] PHP Fatal error:  Call to a member function beginTransaction() on null in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline.php on line 20
+[13-Apr-2018 05:31:44 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[13-Apr-2018 06:06:50 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[13-Apr-2018 06:15:03 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[13-Apr-2018 06:17:11 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[13-Apr-2018 06:25:01 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[13-Apr-2018 06:43:41 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[13-Apr-2018 06:46:15 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[14-Apr-2018 03:46:22 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[14-Apr-2018 06:55:16 America/New_York] PHP Notice:  Undefined index: cnic in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 14
+[14-Apr-2018 06:55:16 America/New_York] PHP Notice:  Undefined index: status in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 15
+[14-Apr-2018 06:55:19 America/New_York] PHP Notice:  Undefined index: cnic in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 14
+[14-Apr-2018 06:55:19 America/New_York] PHP Notice:  Undefined index: status in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 15
+[14-Apr-2018 06:55:21 America/New_York] PHP Notice:  Undefined index: cnic in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 14
+[14-Apr-2018 06:55:21 America/New_York] PHP Notice:  Undefined index: status in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 15
+[14-Apr-2018 06:55:54 America/New_York] PHP Notice:  Undefined index: cnic in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 14
+[14-Apr-2018 06:55:54 America/New_York] PHP Notice:  Undefined index: status in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 15
+[14-Apr-2018 06:55:57 America/New_York] PHP Notice:  Undefined index: cnic in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 14
+[14-Apr-2018 06:55:57 America/New_York] PHP Notice:  Undefined index: status in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 15
+[14-Apr-2018 06:56:14 America/New_York] PHP Notice:  Undefined index: cnic in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 14
+[14-Apr-2018 06:56:14 America/New_York] PHP Notice:  Undefined index: status in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 15
+[14-Apr-2018 07:03:42 America/New_York] PHP Notice:  Undefined index: cnic in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 14
+[14-Apr-2018 07:03:42 America/New_York] PHP Notice:  Undefined index: status in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 15
+[14-Apr-2018 07:04:19 America/New_York] PHP Notice:  Undefined index: cnic in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 14
+[14-Apr-2018 07:04:19 America/New_York] PHP Notice:  Undefined index: status in /home/roarepfq/emis.creativecube.io/Servey-PHP/logs.php on line 15
+[14-Apr-2018 11:02:28 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:02:31 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:05:53 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:08:03 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:10:01 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:14:53 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:16:25 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:18:09 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:24:44 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:27:10 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:30:53 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:34:24 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:37:38 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:37:38 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[14-Apr-2018 11:42:59 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:42:59 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[14-Apr-2018 11:43:25 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:43:25 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[14-Apr-2018 11:45:01 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:45:01 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[14-Apr-2018 11:45:25 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:45:25 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[14-Apr-2018 11:47:13 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:47:13 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[14-Apr-2018 11:48:18 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:48:18 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[14-Apr-2018 11:49:28 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:49:28 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[14-Apr-2018 11:49:45 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:49:45 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[14-Apr-2018 11:50:34 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:50:34 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[14-Apr-2018 11:55:04 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:55:04 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[14-Apr-2018 11:57:29 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 11:57:29 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[14-Apr-2018 12:00:57 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[14-Apr-2018 12:00:57 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[16-Apr-2018 01:42:01 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[16-Apr-2018 03:23:44 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[16-Apr-2018 03:23:44 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[16-Apr-2018 03:37:32 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[16-Apr-2018 03:37:32 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[16-Apr-2018 03:45:10 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[16-Apr-2018 03:45:10 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[16-Apr-2018 05:08:24 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[16-Apr-2018 05:22:48 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[16-Apr-2018 05:24:38 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[16-Apr-2018 05:28:23 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[16-Apr-2018 05:38:15 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 34
+[16-Apr-2018 05:38:15 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 34
+[16-Apr-2018 05:38:15 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 34
+[16-Apr-2018 05:38:15 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 34
+[16-Apr-2018 05:38:15 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 34
+[16-Apr-2018 05:38:15 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 34
+[16-Apr-2018 05:38:15 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[16-Apr-2018 05:38:15 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 34
+[16-Apr-2018 05:46:07 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[16-Apr-2018 05:46:07 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[16-Apr-2018 05:46:07 America/New_York] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 34
+[16-Apr-2018 05:47:35 America/New_York] PHP Notice:  Undefined index: query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 13
+[16-Apr-2018 05:47:35 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[16-Apr-2018 05:48:09 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/roarepfq/emis.creativecube.io/Servey-PHP/offline_ios.php on line 23
+[16-Apr-2018 07:37:44 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[16-Apr-2018 07:44:58 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[19-Apr-2018 09:05:39 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[19-Apr-2018 09:33:19 America/New_York] PHP Notice:  Undefined index: ans5 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 55
+[19-Apr-2018 11:05:55 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 50
+[19-Apr-2018 11:11:56 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[19-Apr-2018 11:11:56 America/New_York] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 69
+[19-Apr-2018 11:26:56 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[19-Apr-2018 11:26:56 America/New_York] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 69
+[20-Apr-2018 06:45:47 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[21-Apr-2018 06:37:17 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[21-Apr-2018 06:37:24 America/New_York] PHP Notice:  Undefined index: firstName in /home/roarepfq/emis.creativecube.io/Servey-PHP/UploadImage.php on line 2
+[21-Apr-2018 06:37:24 America/New_York] PHP Notice:  Undefined index: lastName in /home/roarepfq/emis.creativecube.io/Servey-PHP/UploadImage.php on line 3
+[21-Apr-2018 06:37:24 America/New_York] PHP Notice:  Undefined index: userId in /home/roarepfq/emis.creativecube.io/Servey-PHP/UploadImage.php on line 4
+[21-Apr-2018 06:37:24 America/New_York] PHP Notice:  Undefined index: file in /home/roarepfq/emis.creativecube.io/Servey-PHP/UploadImage.php on line 12
+[21-Apr-2018 06:37:24 America/New_York] PHP Notice:  Undefined index: file in /home/roarepfq/emis.creativecube.io/Servey-PHP/UploadImage.php on line 14
+[21-Apr-2018 06:37:24 America/New_York] PHP Notice:  Undefined index: userId in /home/roarepfq/emis.creativecube.io/Servey-PHP/UploadImage.php on line 27
+[21-Apr-2018 06:45:20 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[21-Apr-2018 06:57:13 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[21-Apr-2018 06:57:42 America/New_York] PHP Notice:  Undefined index: myFile in /home/roarepfq/emis.creativecube.io/Servey-PHP/upload.php on line 4
+[21-Apr-2018 06:57:42 America/New_York] PHP Notice:  Undefined index: myFile in /home/roarepfq/emis.creativecube.io/Servey-PHP/upload.php on line 5
+[21-Apr-2018 06:57:42 America/New_York] PHP Notice:  Undefined index: myFile in /home/roarepfq/emis.creativecube.io/Servey-PHP/upload.php on line 6
+[21-Apr-2018 06:57:42 America/New_York] PHP Notice:  Undefined index: myFile in /home/roarepfq/emis.creativecube.io/Servey-PHP/upload.php on line 7
+[21-Apr-2018 06:59:31 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[21-Apr-2018 07:10:05 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[21-Apr-2018 08:01:01 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[21-Apr-2018 08:01:11 America/New_York] PHP Notice:  Undefined index: myFile in /home/roarepfq/emis.creativecube.io/Servey-PHP/upload.php on line 4
+[21-Apr-2018 08:01:11 America/New_York] PHP Notice:  Undefined index: myFile in /home/roarepfq/emis.creativecube.io/Servey-PHP/upload.php on line 5
+[21-Apr-2018 08:01:11 America/New_York] PHP Notice:  Undefined index: myFile in /home/roarepfq/emis.creativecube.io/Servey-PHP/upload.php on line 6
+[21-Apr-2018 08:01:11 America/New_York] PHP Notice:  Undefined index: myFile in /home/roarepfq/emis.creativecube.io/Servey-PHP/upload.php on line 7
+[21-Apr-2018 08:25:27 America/New_York] PHP Notice:  Undefined index: ans5 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 55
+[21-Apr-2018 09:15:10 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[21-Apr-2018 09:26:35 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[21-Apr-2018 09:46:46 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[21-Apr-2018 09:48:43 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[21-Apr-2018 09:50:27 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[24-Apr-2018 06:18:24 America/New_York] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[24-Apr-2018 06:26:38 America/New_York] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 70
+[24-Apr-2018 06:28:10 America/New_York] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 70
+[24-Apr-2018 06:30:03 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[24-Apr-2018 06:30:38 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[24-Apr-2018 06:31:03 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[24-Apr-2018 06:31:21 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[24-Apr-2018 06:48:18 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[24-Apr-2018 06:48:18 America/New_York] PHP Notice:  Undefined index: ans3 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 17
+[24-Apr-2018 06:48:18 America/New_York] PHP Notice:  Undefined index: ans4 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 18
+[24-Apr-2018 06:50:23 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[24-Apr-2018 06:50:23 America/New_York] PHP Notice:  Undefined index: ans3 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 17
+[24-Apr-2018 06:50:23 America/New_York] PHP Notice:  Undefined index: ans4 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 18
+[24-Apr-2018 06:55:29 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[24-Apr-2018 06:55:29 America/New_York] PHP Notice:  Undefined index: ans3 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 17
+[24-Apr-2018 06:55:29 America/New_York] PHP Notice:  Undefined index: ans4 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 18
+[24-Apr-2018 06:59:02 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[24-Apr-2018 07:00:23 America/New_York] PHP Notice:  Undefined index: formNo in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 13
+[24-Apr-2018 10:11:45 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 40
+[24-Apr-2018 10:11:45 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 41
+[24-Apr-2018 10:12:05 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 40
+[24-Apr-2018 10:12:05 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 41
+[24-Apr-2018 11:12:23 America/New_York] PHP Notice:  Undefined variable: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 82
+[24-Apr-2018 11:14:39 America/New_York] PHP Notice:  Undefined variable: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 82
+[24-Apr-2018 11:17:08 America/New_York] PHP Notice:  Undefined variable: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 82
+[24-Apr-2018 11:17:57 America/New_York] PHP Notice:  Undefined variable: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 82
+[24-Apr-2018 11:18:10 America/New_York] PHP Notice:  Undefined variable: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 82
+[24-Apr-2018 11:19:05 America/New_York] PHP Notice:  Undefined variable: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 82
+[24-Apr-2018 11:29:25 America/New_York] PHP Notice:  Undefined variable: ans7 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 93
+[24-Apr-2018 11:29:25 America/New_York] PHP Notice:  Undefined variable: ans8 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 93
+[24-Apr-2018 11:33:48 America/New_York] PHP Notice:  Undefined variable: ans7 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 93
+[24-Apr-2018 11:33:48 America/New_York] PHP Notice:  Undefined variable: ans8 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 93
+[24-Apr-2018 11:37:31 America/New_York] PHP Notice:  Undefined variable: ans7 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 93
+[24-Apr-2018 11:37:31 America/New_York] PHP Notice:  Undefined variable: ans8 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 93
+[24-Apr-2018 11:38:21 America/New_York] PHP Notice:  Undefined variable: ans7 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 93
+[24-Apr-2018 11:38:21 America/New_York] PHP Notice:  Undefined variable: ans8 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 93
+[24-Apr-2018 11:38:49 America/New_York] PHP Notice:  Undefined variable: ans7 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 93
+[24-Apr-2018 11:38:49 America/New_York] PHP Notice:  Undefined variable: ans8 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 93
+[24-Apr-2018 11:59:30 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[24-Apr-2018 12:00:15 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[24-Apr-2018 12:01:18 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[24-Apr-2018 12:03:17 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 114
+[24-Apr-2018 12:03:17 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[24-Apr-2018 12:05:55 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 114
+[24-Apr-2018 12:05:55 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[24-Apr-2018 12:09:51 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 114
+[24-Apr-2018 12:09:51 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[24-Apr-2018 12:15:20 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 114
+[24-Apr-2018 12:15:20 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[24-Apr-2018 12:19:23 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 114
+[24-Apr-2018 12:19:23 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[24-Apr-2018 12:20:49 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 114
+[24-Apr-2018 12:20:49 America/New_York] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[24-Apr-2018 12:52:45 America/New_York] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 89
+[24-Apr-2018 12:52:45 America/New_York] PHP Notice:  Undefined index: ans7 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 90
+[24-Apr-2018 12:52:45 America/New_York] PHP Notice:  Undefined index: ans8 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 91
+[24-Apr-2018 12:52:45 America/New_York] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 92
+[25-Apr-2018 14:01:04 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:07:49 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:14:11 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:15:49 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:17:48 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:24:55 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:27:12 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:29:23 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:31:43 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:34:57 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:37:49 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:53:28 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:56:00 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 14:59:11 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 15:01:02 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 15:40:26 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 15:42:59 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 17:04:35 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[25-Apr-2018 11:28:12 America/New_York] PHP Notice:  Undefined index: myFile in /home/roarepfq/emis.creativecube.io/Servey-PHP/uploadvideo.php on line 4
+[25-Apr-2018 11:28:12 America/New_York] PHP Notice:  Undefined index: myFile in /home/roarepfq/emis.creativecube.io/Servey-PHP/uploadvideo.php on line 5
+[25-Apr-2018 11:28:12 America/New_York] PHP Notice:  Undefined index: myFile in /home/roarepfq/emis.creativecube.io/Servey-PHP/uploadvideo.php on line 6
+[25-Apr-2018 11:28:12 America/New_York] PHP Notice:  Undefined index: myFile in /home/roarepfq/emis.creativecube.io/Servey-PHP/uploadvideo.php on line 7
+[25-Apr-2018 21:59:13 Asia/Karachi] PHP Notice:  Undefined index: id in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 14
+[25-Apr-2018 21:59:13 Asia/Karachi] PHP Notice:  Undefined index: lati in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 19
+[25-Apr-2018 21:59:13 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 15:43:18 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 15:43:18 Asia/Karachi] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 112
+[26-Apr-2018 15:43:18 Asia/Karachi] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[26-Apr-2018 15:43:18 Asia/Karachi] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 116
+[26-Apr-2018 15:46:26 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 15:46:26 Asia/Karachi] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 112
+[26-Apr-2018 15:46:26 Asia/Karachi] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[26-Apr-2018 15:46:26 Asia/Karachi] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 116
+[26-Apr-2018 15:49:59 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 16:05:10 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 16:09:37 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 16:25:48 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 16:35:15 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 16:46:07 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 16:49:13 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 16:50:52 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 20:25:48 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 20:25:48 Asia/Karachi] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 112
+[26-Apr-2018 20:25:48 Asia/Karachi] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[26-Apr-2018 20:25:48 Asia/Karachi] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 116
+[26-Apr-2018 20:31:30 Asia/Karachi] PHP Notice:  Undefined index: longi in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 20
+[26-Apr-2018 20:31:30 Asia/Karachi] PHP Notice:  Undefined index: ans6 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 112
+[26-Apr-2018 20:31:30 Asia/Karachi] PHP Notice:  Undefined index: ans9 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 115
+[26-Apr-2018 20:31:30 Asia/Karachi] PHP Notice:  Undefined index: ans10 in /home/roarepfq/emis.creativecube.io/Servey-PHP/InsertForm.php on line 116
