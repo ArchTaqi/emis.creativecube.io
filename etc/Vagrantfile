@@ -1,0 +1,51 @@
+vm_hostname = "emis.creativecube.io"
+vm_ip = "192.168.30.120"
+vm_name = "emis.creativecube.io"
+vm_root_dir = "/var/www/#{vm_hostname}"
+vm_mem_size = "4000"
+
+Vagrant.configure(2) do |config|
+  config.vm.box = "ubuntu/trusty64"
+  config.vm.hostname = vm_hostname
+  config.vm.boot_timeout = 720
+  config.ssh.insert_key = false
+  config.vm.network "forwarded_port", guest: 80, host: 8085, host_ip: "127.0.0.1"
+
+  # VMWare-specific settings
+  config.vm.provider "vmware_fusion" do |v, override|
+    #v.gui = true
+    v.vmx["memsize"] = vm_mem_size
+    v.vmx["numvcpus"] = "2"
+    v.vmx["displayname"] = vm_name
+
+    # No need for NFS for VMWARE
+    override.vm.synced_folder "../", vm_root_dir
+  end
+
+  # Virtualbox-specific settings
+  config.vm.provider "virtualbox" do |vb, override|
+    # Customize the amount of memory on the VM:
+    vb.memory = vm_mem_size
+    vb.cpus = "2"
+    vb.name = vm_name
+
+    # Ensure that project config via provisioner has the same root dir
+    override.vm.synced_folder "../emis", vm_root_dir, type: "rsync"
+
+  end
+
+  # copy SSH keys to vagrant
+  config.vm.synced_folder "~/.ssh", "/home/vagrant/.ssh", type: "rsync", rsync__exclude: ["authorized_keys"]
+  config.vm.synced_folder "~/.ssh", "/root/.ssh", type: "rsync", rsync__exclude: ["authorized_keys"]
+
+  # Provisioning.
+  config.vm.provision :shell, inline: "apt-get update"
+  config.vm.provision :shell, path: "scripts/apache2.sh"
+  config.vm.provision :shell, path: "scripts/php5.sh"
+  config.vm.provision :shell, path: "scripts/php5-qa.sh"
+  config.vm.provision :shell, path: "scripts/php5-tools.sh"
+  config.vm.provision :shell, path: "scripts/db-mysql.sh"
+  config.vm.provision :shell, path: "scripts/dev-tools.sh"
+  config.vm.provision :shell, inline: "apt-get -y upgrade"
+
+end
